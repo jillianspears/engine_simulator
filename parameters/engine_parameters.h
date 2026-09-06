@@ -2,6 +2,7 @@
  * Parameters and Design Constraints for a Solid or Liquid Rocket Engine
  */
 
+#pragma once
 namespace liquid_engine_params {
 
 double thrust = 0.00;
